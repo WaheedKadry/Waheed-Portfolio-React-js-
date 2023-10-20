@@ -76,7 +76,7 @@ const Header = () => {
                   key={e.title}
                   style={{
                     display: "flex",
-                    gap: "10px",
+                    gap: "20px",
                     justifyContent: "center", marginTop:"10px"
                   }}
                        onClick={() => {
