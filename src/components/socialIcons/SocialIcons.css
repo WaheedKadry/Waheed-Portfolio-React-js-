@@ -2,9 +2,9 @@
   width: 70%;
   gap: 3.5rem;
   color: #fff;
-    justify-content: center;
-    margin-inline: auto;
-    margin-top: 4rem;
+  justify-content: center;
+  margin-inline: auto;
+  margin-top: 4rem;
 }
 .social-icons .all-icons a {
   position: relative;
@@ -31,13 +31,11 @@
 
 .social-icons .all-icons .icon:hover::after {
   transform: rotate(-406deg);
-  
 }
 .social-icons .all-icons .icon:hover {
   font-size: 1.4rem;
   transition: 0.3s;
   cursor: pointer;
-  
 }
 .social-icons .all-icons .icon.icon-facebook:hover {
   color: var(--facebook-icon-hover);
@@ -65,6 +63,11 @@
 }
 @media (max-width: 700px) {
   .social-icons .all-icons {
-    justify-content: center;
+    justify-content: space-between;
+  }
+}
+@media (max-width: 400px) {
+  .social-icons .all-icons {
+    width: 100%;
   }
 }
