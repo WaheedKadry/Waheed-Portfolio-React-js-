@@ -63,7 +63,8 @@
 }
 @media (max-width: 700px) {
   .social-icons .all-icons {
-    justify-content: space-between;
     width: 100%;
+    justify-content: space-around;
   }
 }
+
