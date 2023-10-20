@@ -92,11 +92,7 @@ const Contact = () => {
         </div>
       </div>
     </section>
-  
   </>);
 };
-{
-  /* <div className=" animation flex"  >  </div> */
-}
 
 export default Contact;
