@@ -79,6 +79,9 @@ const Header = () => {
                     gap: "10px",
                     justifyContent: "center", marginTop:"10px"
                   }}
+                       onClick={() => {
+                  setshowModal(false);
+                }}
                 >
                   <span className={e.icon}></span>
                   <Link to={e.path}>{e.title}</Link>
