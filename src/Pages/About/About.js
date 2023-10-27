@@ -12,6 +12,7 @@ import styledc from "../../../src/Image/skills/styledc.png";
 import npm from "../../../src/Image/skills/npm.svg";
 import vite from "../../../src/Image/skills/vite.png";
 import figma from "../../../src/Image/skills/figma.svg";
+import typescript from "../../../src/Image/skills/ts.png";
 function About() {
   let skills = [
     {
@@ -61,6 +62,10 @@ function About() {
   {
       name: "Figma",
       img: figma
+  },
+  {
+      name: "Typescript",
+      img: typescript
   }
   ];
   return (
