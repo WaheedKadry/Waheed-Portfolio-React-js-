@@ -55,7 +55,7 @@ const Hero = () => {
       className="download-cv"
         rel="noreferrer"
         target="_self"
-        href="https://drive.google.com/u/0/uc?id=14QWf09Oj1EXhoAIgvX4lsVWbzNN-UXkR&amp;export=download"
+        href="https://drive.google.com/u/0/uc?id=15M8i8FloyWjKwZI307N4L1B085ZFEdVh&export=download"
         download=""
       >
         Download My Resume
