@@ -55,10 +55,20 @@ const Hero = () => {
       className="download-cv"
         rel="noreferrer"
         target="_self"
-        href="https://drive.google.com/u/0/uc?id=15M8i8FloyWjKwZI307N4L1B085ZFEdVh&export=download"
+        href="https://drive.usercontent.google.com/u/0/uc?id=1XfWTtYuo5bgTjDA4CpjEPFdYaEhC4iu0&export=download"
         download=""
       >
         Download My Resume
+      </a>
+          <br/>
+      <a
+      className="download-cv"
+        rel="noreferrer"
+        target="_self"
+        href="https://drive.google.com/file/d/1XfWTtYuo5bgTjDA4CpjEPFdYaEhC4iu0/view"
+        download=""
+      >
+        Show My Resume
       </a>
       </div>
 
