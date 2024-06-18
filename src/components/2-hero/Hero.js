@@ -61,15 +61,7 @@ const Hero = () => {
         Download My Resume
       </a>
           <br/>
-      <a
-      className="show-cv"
-        rel="noreferrer"
-        target="_self"
-        href="https://drive.google.com/file/d/1XfWTtYuo5bgTjDA4CpjEPFdYaEhC4iu0/view"
-        download=""
-      >
-        Show My Resume
-      </a>
+   
       </div>
 
       <div className="right-section animation ">
