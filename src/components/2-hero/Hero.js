@@ -58,9 +58,18 @@ const Hero = () => {
         href="https://drive.usercontent.google.com/u/0/uc?id=1XfWTtYuo5bgTjDA4CpjEPFdYaEhC4iu0&export=download"
         download=""
       >
-        Download My Resume
+        Download My CV
       </a>
           <br/>
+      <a
+      className="show-cv"
+        rel="noreferrer"
+        target="_self"
+        href="https://drive.usercontent.google.com/u/0/uc?id=1XfWTtYuo5bgTjDA4CpjEPFdYaEhC4iu0&export=download"
+        download=""
+      >
+       Show My CV
+      </a>
    
       </div>
 
