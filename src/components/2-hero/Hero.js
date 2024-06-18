@@ -62,7 +62,7 @@ const Hero = () => {
       </a>
           <br/>
       <a
-      className="download-cv"
+      className="show-cv"
         rel="noreferrer"
         target="_self"
         href="https://drive.google.com/file/d/1XfWTtYuo5bgTjDA4CpjEPFdYaEhC4iu0/view"
