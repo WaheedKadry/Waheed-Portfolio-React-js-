@@ -65,7 +65,7 @@ const Hero = () => {
       className="show-cv"
         rel="noreferrer"
         target="_self"
-        href="https://drive.usercontent.google.com/u/0/uc?id=1XfWTtYuo5bgTjDA4CpjEPFdYaEhC4iu0&export=download"
+        href="https://drive.google.com/file/d/1XfWTtYuo5bgTjDA4CpjEPFdYaEhC4iu0/view"
         download=""
       >
        Show My CV
