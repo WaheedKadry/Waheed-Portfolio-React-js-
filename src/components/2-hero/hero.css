@@ -45,7 +45,7 @@ section.hero .left-section .download-cv {
 section.hero .left-section .show-cv {
   margin-top: 1rem;
 }
-section.hero .left-section .show-cv,
+section.hero .left-section .show-cv:hover,
 section.hero .left-section .download-cv:hover {
   background: var(--blue);
   color: var(--title);
