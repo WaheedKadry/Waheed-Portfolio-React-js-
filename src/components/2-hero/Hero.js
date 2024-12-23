@@ -64,7 +64,7 @@ const Hero = () => {
       <a
       className="show-cv"
         rel="noreferrer"
-        target="_self"
+        target="_blank"
         href="https://drive.google.com/file/d/1hOzwUPfEPWwV-nCSPlj87EGrhq1aJhM4/view?usp=sharing"
         download=""
       >
