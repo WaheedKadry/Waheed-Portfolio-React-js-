@@ -55,7 +55,7 @@ const Hero = () => {
       className="download-cv"
         rel="noreferrer"
         target="_self"
-        href="https://drive.usercontent.google.com/u/0/uc?id=1XfWTtYuo5bgTjDA4CpjEPFdYaEhC4iu0&export=download"
+        href="https://drive.google.com/u/0/uc?id=1hOzwUPfEPWwV-nCSPlj87EGrhq1aJhM4&amp;export=download"
         download=""
       >
         Download My CV
@@ -65,7 +65,7 @@ const Hero = () => {
       className="show-cv"
         rel="noreferrer"
         target="_self"
-        href="https://drive.google.com/file/d/1XfWTtYuo5bgTjDA4CpjEPFdYaEhC4iu0/view"
+        href="https://drive.google.com/file/d/1hOzwUPfEPWwV-nCSPlj87EGrhq1aJhM4/view?usp=sharing"
         download=""
       >
        Show My CV
